@@ -12,8 +12,6 @@ Browse and search video games using the RAWG public API. The UI features a PS3-s
 - Infinite “Load more” pagination
 - Game details modal with single-image carousel and keyboard arrows
 - PS3-inspired dynamic background that reacts to mouse movement
-- Retro 16-bit title centered at the top
-- Footer credit: **By Adonis Younes**
 
 ---
 
